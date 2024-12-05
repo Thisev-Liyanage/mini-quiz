@@ -1,0 +1,191 @@
+:root {
+  background-color: #f2f6f6;
+  font-size: 62.5%;
+  
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  text-decoration: none;
+}
+  
+  h1,
+  h2,
+  h3,
+  h4 {
+    margin-bottom: 1rem;
+  }
+  
+  h1 {
+    font-size: 5.4rem;
+    color: #23c483;
+    text-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    margin-bottom: 5rem;
+    text-align: center;
+  }
+  
+  h1 > span {
+    font-size: 2.4rem;
+    font-weight: 500;
+  }
+  
+  h2 {
+    font-size: 3rem;
+    margin-bottom: 4rem;
+    font-weight: 700;
+    color: #333;
+  
+  }
+  
+  h3 {
+    font-size: 2.2rem;
+    color: #333;
+    font-weight: 400;
+  }
+  
+  p{
+    color: #333;
+  }
+  
+  /* UTILITIES */
+  
+  .container {
+    width: 100%;
+    min-height: 100vh;  /* Ensures content fills the screen even if not much content */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
+    flex-direction: column;
+  }
+  
+  .container > * {
+    width: 100%;
+  }
+  
+  .flex-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .flex-center {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  /* BUTTONS */
+  .btn {
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 20rem;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 2rem;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .btn:hover {
+    background-color: #23c483;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-2px);
+  }
+  
+  .btn[disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+  }
+  
+  /* LISTS */
+  .hightscore {
+    font-size: 3rem;  /* Adjusted font size */
+    color: #56a5eb;
+    margin-bottom: 2rem;
+    list-style: none;
+  }
+  
+  ul {
+    width: 100%;
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  li {
+    font-size: 2.4rem;
+    margin-bottom: 1rem;
+    text-align: left;  /* Align text to the left for clarity */
+  }
+  
+  /* RESPONSIVE DESIGN */
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 4rem;  /* Make title slightly smaller on smaller screens */
+      margin-bottom: 1.5rem;
+    }
+  
+    h2 {
+      font-size: 3rem;
+      margin-bottom: 2rem;
+    }
+  
+    .btn {
+      width: 90%;  /* Make buttons fit better on mobile */
+      max-width: 100%;
+    }
+  
+    .hightscore {
+      font-size: 2.4rem;
+    }
+  
+    li {
+      font-size: 2rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 3.6rem;  /* Further reduce title size on small screens */
+      margin-bottom: 1rem;
+    }
+  
+    h2 {
+      font-size: 2.8rem;
+    }
+  
+    .btn {
+      width: 100%;
+      max-width: 100%;
+    }
+  
+    .hightscore {
+      font-size: 2.2rem;
+    }
+  
+    li {
+      font-size: 1.8rem;
+    }
+  }
+  

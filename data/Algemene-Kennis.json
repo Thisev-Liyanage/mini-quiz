@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Wat is de hoofdstad van Nederland?",
+    "choice1": "Amsterdam",
+    "choice2": "Rotterdam",
+    "choice3": "Den Haag",
+    "choice4": "Utrecht",
+    "answer": 1,
+    "image": "/images/amsterdam.jpg"
+  },
+  {
+    "question": "Wie schilderde de 'Nachtwacht'?",
+    "choice1": "Vincent van Gogh",
+    "choice2": "Rembrandt van Rijn",
+    "choice3": "Pieter Bruegel",
+    "choice4": "Johannes Vermeer",
+    "answer": 2,
+    "image": "/images/rembrandt.webp"
+  },
+  {
+    "question": "Wat is de langste rivier in Nederland?",
+    "choice1": "Schelde",
+    "choice2": "Rhine",
+    "choice3": "Meuse",
+    "choice4": "IJssel",
+    "answer": 2,
+    "image": "/images/rhine.jpg"
+  },
+  {
+    "question": "In welk jaar werd Nederland een constitutionele monarchie?",
+    "choice1": "1815",
+    "choice2": "1789",
+    "choice3": "1848",
+    "choice4": "1600",
+    "answer": 1,
+    "image": "/images/monarchy.jpeg"
+  },
+  {
+    "question": "Wie is de huidige koning van Nederland?",
+    "choice1": "Koning Willem-Alexander",
+    "choice2": "Koningin Beatrix",
+    "choice3": "Koning Willem III",
+    "choice4": "Koning Jan-Peter Balkenende",
+    "answer": 1,
+    "image": "/images/willem-alexander.jpg"
+  },
+  {
+    "question": "Wat is de grootste stad van België?",
+    "choice1": "Brussel",
+    "choice2": "Antwerpen",
+    "choice3": "Gent",
+    "choice4": "Luik",
+    "answer": 1,
+    "image": "/images/brussel.jpg"
+  },
+  {
+    "question": "Welke planeet staat het dichtst bij de zon?",
+    "choice1": "Venus",
+    "choice2": "Mars",
+    "choice3": "Mercurius",
+    "choice4": "Aarde",
+    "answer": 3,
+    "image": "/images/mercury.jpg"
+  },
+  {
+    "question": "Welke Nederlandse stad heeft de bijnaam 'de stad van de zakkenrollers'?",
+    "choice1": "Rotterdam",
+    "choice2": "Amsterdam",
+    "choice3": "Haarlem",
+    "choice4": "Groningen",
+    "answer": 2,
+    "image": "/images/amsterdam-theft.jpg"
+  },
+  {
+    "question": "Wat is het nationale gerecht van Nederland?",
+    "choice1": "Stamppot",
+    "choice2": "Pannenkoeken",
+    "choice3": "Bitterballen",
+    "choice4": "Erwtensoep",
+    "answer": 1,
+    "image": "/images/stamppot.jpg"
+  },
+  {
+    "question": "In welk jaar werd de Eerste Wereldoorlog beëindigd?",
+    "choice1": "1912",
+    "choice2": "1914",
+    "choice3": "1918",
+    "choice4": "1939",
+    "answer": 3,
+    "image": "/images/ww1.jpg"
+  },
+  {
+    "question": "Wat is de hoofdstad van Duitsland?",
+    "choice1": "München",
+    "choice2": "Hamburg",
+    "choice3": "Berlijn",
+    "choice4": "Frankfurt",
+    "answer": 3,
+    "image": "/images/berlin.jpeg"
+  },
+  {
+    "question": "Wat is de grootste oceaan ter wereld?",
+    "choice1": "Atlantische Oceaan",
+    "choice2": "Indische Oceaan",
+    "choice3": "Stille Oceaan",
+    "choice4": "Arctische Oceaan",
+    "answer": 3,
+    "image": "/images/pacific-ocean.jpeg"
+  },
+  {
+    "question": "Wat is de hoofdstad van Frankrijk?",
+    "choice1": "Lyon",
+    "choice2": "Marseille",
+    "choice3": "Parijs",
+    "choice4": "Nice",
+    "answer": 3,
+    "image": "/images/paris.jpeg"
+  },
+  {
+    "question": "Wie ontdekte Amerika?",
+    "choice1": "Marco Polo",
+    "choice2": "Christoffel Columbus",
+    "choice3": "Ferdinand Magellaan",
+    "choice4": "Hernán Cortés",
+    "answer": 2,
+    "image": "/images/columbus.jpg"
+  },
+  {
+    "question": "Wie was de eerste man op de maan?",
+    "choice1": "Yuri Gagarin",
+    "choice2": "Neil Armstrong",
+    "choice3": "Buzz Aldrin",
+    "choice4": "John Glenn",
+    "answer": 2,
+    "image": "/images/armstrong.jpg"
+  },
+  {
+    "question": "Wat is de grootste berg ter wereld?",
+    "choice1": "Mount Kilimanjaro",
+    "choice2": "Mount Everest",
+    "choice3": "K2",
+    "choice4": "Mont Blanc",
+    "answer": 2,
+    "image": "/images/everest.jpg"
+  },
+  {
+    "question": "Wat is de officiële taal van Brazilië?",
+    "choice1": "Spaans",
+    "choice2": "Portugees",
+    "choice3": "Engels",
+    "choice4": "Frans",
+    "answer": 2,
+    "image": "/images/brazil.jpg"
+  },
+  {
+    "question": "Wie schreef 'Romeo en Julia'?",
+    "choice1": "William Shakespeare",
+    "choice2": "Charles Dickens",
+    "choice3": "Jane Austen",
+    "choice4": "Homerus",
+    "answer": 1,
+    "image": "/images/shakespeare.jpg"
+  },
+  {
+    "question": "Wat is de grootste stad van Nederland?",
+    "choice1": "Rotterdam",
+    "choice2": "Amsterdam",
+    "choice3": "Utrecht",
+    "choice4": "Groningen",
+    "answer": 2,
+    "image": "/images/amsterdam-city.png"
+  },
+  {
+    "question": "Wat is de hoofdstad van Spanje?",
+    "choice1": "Barcelona",
+    "choice2": "Sevilla",
+    "choice3": "Madrid",
+    "choice4": "Valencia",
+    "answer": 3,
+    "image": "/images/madrid.jpg"
+  }
+]

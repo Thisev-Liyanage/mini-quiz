@@ -1,0 +1,146 @@
+[
+    {
+        "question": "Welke sporter staat bekend als 'The GOAT' in basketbal?",
+        "choice1": "LeBron James",
+        "choice2": "Michael Jordan",
+        "choice3": "Kobe Bryant",
+        "choice4": "Shaquille O'Neal",
+        "answer": 2,
+        "image": "/images3/michael-jordan.jpg"
+    },
+    {
+        "question": "Wat is de maximale score van een worp in bowling?",
+        "choice1": "200",
+        "choice2": "250",
+        "choice3": "300",
+        "choice4": "350",
+        "answer": 3,
+        "image": "/images3/bowling.jpg"
+    },
+    {
+        "question": "Welke stad organiseerde de Olympische Zomerspelen van 2016?",
+        "choice1": "Londen",
+        "choice2": "Rio de Janeiro",
+        "choice3": "Tokyo",
+        "choice4": "Parijs",
+        "answer": 2,
+        "image": "/images3/rio-2016.jpg"
+    },
+    {
+        "question": "In welke sport wordt de 'Vince Lombardi Trophy' uitgereikt?",
+        "choice1": "Basketbal",
+        "choice2": "Baseball",
+        "choice3": "American football",
+        "choice4": "Hockey",
+        "answer": 3,
+        "image": "/images3/vince-lombardi-trophy.jpg"
+    },
+    {
+        "question": "Wie is de recordhouder van de meeste doelpunten in de Champions League?",
+        "choice1": "Lionel Messi",
+        "choice2": "Cristiano Ronaldo",
+        "choice3": "Robert Lewandowski",
+        "choice4": "Zlatan Ibrahimović",
+        "answer": 2,
+        "image": "/images3/cristiano-ronaldo.jpg"
+    },
+    {
+        "question": "In welke autosport won Lewis Hamilton meerdere wereldtitels?",
+        "choice1": "Formule 1",
+        "choice2": "NASCAR",
+        "choice3": "IndyCar",
+        "choice4": "Rally",
+        "answer": 1,
+        "image": "/images3/lewis-hamilton.jpg"
+    },
+    {
+        "question": "Welke tennisser heeft het meeste Grand Slam-titels bij de mannen gewonnen?",
+        "choice1": "Roger Federer",
+        "choice2": "Rafael Nadal",
+        "choice3": "Novak Djokovic",
+        "choice4": "Pete Sampras",
+        "answer": 3,
+        "image": "/images3/novak-djokovic.jpeg"
+    },
+    {
+        "question": "Hoeveel spelers staan er op het veld in een voetbalelftal per team?",
+        "choice1": "9",
+        "choice2": "10",
+        "choice3": "11",
+        "choice4": "12",
+        "answer": 3,
+        "image": "/images3/football-team.jpg"
+    },
+    {
+        "question": "Welke Nederlandse wielrenner won de Tour de France in 1980?",
+        "choice1": "Joop Zoetemelk",
+        "choice2": "Jan Janssen",
+        "choice3": "Tom Dumoulin",
+        "choice4": "Erik Breukink",
+        "answer": 1,
+        "image": "/images3/joop-zoetemelk.jpg"
+    },
+    {
+        "question": "Hoe heet de plek waar een honkbalspeler de bal probeert te raken?",
+        "choice1": "De kolfzone",
+        "choice2": "De pitch",
+        "choice3": "De slagzone",
+        "choice4": "De werpheuvel",
+        "answer": 3,
+        "image": "/images3/baseball-swing.jpg"
+    },
+    {
+        "question": "Wie wordt vaak gezien als de grootste bokser aller tijden?",
+        "choice1": "Mike Tyson",
+        "choice2": "Muhammad Ali",
+        "choice3": "Floyd Mayweather",
+        "choice4": "George Foreman",
+        "answer": 2,
+        "image": "/images3/muhammad-ali.jpg"
+    },
+    {
+        "question": "Wat is de bijnaam van de Nederlandse schaatser Sven Kramer?",
+        "choice1": "De Vliegende Hollander",
+        "choice2": "De IJsman",
+        "choice3": "De Marathonkoning",
+        "choice4": "De Langebaanspecialist",
+        "answer": 4,
+        "image": "/images3/sven-kramer.jpg"
+    },
+    {
+        "question": "Hoeveel minuten duurt een reguliere voetbalwedstrijd?",
+        "choice1": "80 minuten",
+        "choice2": "90 minuten",
+        "choice3": "100 minuten",
+        "choice4": "120 minuten",
+        "answer": 2,
+        "image": "/images3/soccer-match.jpg"
+    },
+    {
+        "question": "In welke sport wordt het woord 'eagle' gebruikt?",
+        "choice1": "Golf",
+        "choice2": "Cricket",
+        "choice3": "Tennis",
+        "choice4": "Skiën",
+        "answer": 1,
+        "image": "/images3/golf-eagle.jpeg"
+    },
+    {
+        "question": "Wat is de afkorting voor de belangrijkste basketbalcompetitie in de VS?",
+        "choice1": "NHL",
+        "choice2": "NFL",
+        "choice3": "NBA",
+        "choice4": "MLB",
+        "answer": 3,
+        "image": "/images3/nba.jpg"
+    },
+    {
+        "question": "Welke sport staat bekend als 'de koning der sporten'?",
+        "choice1": "Tennis",
+        "choice2": "Voetbal",
+        "choice3": "Basketbal",
+        "choice4": "Atletiek",
+        "answer": 2,
+        "image": "/images3/king-of-sports.jpg"
+    }
+]

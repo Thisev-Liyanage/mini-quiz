@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Wie ontwikkelde de game 'Super Mario Bros.'?",
+    "choice1": "Sega",
+    "choice2": "Nintendo",
+    "choice3": "Sony",
+    "choice4": "Microsoft",
+    "answer": 2,
+    "image": "/images2/super-mario.jpg"
+  },
+  {
+    "question": "Wat is de naam van de hoofdpersoon in de game 'The Legend of Zelda'?",
+    "choice1": "Zelda",
+    "choice2": "Link",
+    "choice3": "Ganondorf",
+    "choice4": "Samus",
+    "answer": 2,
+    "image": "/images2/zelda.jpg"
+  },
+  {
+    "question": "Welke game heeft de beroemde 'Pikachu' als mascotte?",
+    "choice1": "Digimon",
+    "choice2": "Pokémon",
+    "choice3": "Yu-Gi-Oh!",
+    "choice4": "Dragon Ball Z",
+    "answer": 2,
+    "image": "/images2/pokemon.jpeg"
+  },
+  {
+    "question": "Wat is de setting van de game 'The Elder Scrolls V: Skyrim'?",
+    "choice1": "Een post-apocalyptische wereld",
+    "choice2": "Een fantasiewereld vol draken en magie",
+    "choice3": "De ruimte",
+    "choice4": "Een futuristische stad",
+    "answer": 2,
+    "image": "/images2/skyrim.jpg"
+  },
+  {
+    "question": "In welke game vecht de hoofdpersoon tegen de 'T-800' Terminator?",
+    "choice1": "Grand Theft Auto V",
+    "choice2": "Doom",
+    "choice3": "Resident Evil",
+    "choice4": "The Terminator: Dawn of Fate",
+    "answer": 4,
+    "image": "/images2/terminator.jpg"
+  },
+  {
+    "question": "In welke game zegt het personage 'It's dangerous to go alone! Take this.'?",
+    "choice1": "The Legend of Zelda",
+    "choice2": "Metroid",
+    "choice3": "Final Fantasy",
+    "choice4": "Castlevania",
+    "answer": 1,
+    "image": "/images2/its-dangerous.jpg"
+  },
+  {
+    "question": "Wie is de maker van de 'Halo'-franchise?",
+    "choice1": "Bungie",
+    "choice2": "Epic Games",
+    "choice3": "Naughty Dog",
+    "choice4": "Rockstar Games",
+    "answer": 1,
+    "image": "/images2/halo.jpg"
+  },
+  {
+    "question": "Wat is de naam van de virtuele wereld in de game 'Minecraft'?",
+    "choice1": "The World",
+    "choice2": "The Overworld",
+    "choice3": "The Nether",
+    "choice4": "Enderworld",
+    "answer": 2,
+    "image": "/images2/minecraft.jpg"
+  },
+  {
+    "question": "In welk jaar werd 'Fortnite' uitgebracht?",
+    "choice1": "2015",
+    "choice2": "2016",
+    "choice3": "2017",
+    "choice4": "2018",
+    "answer": 3,
+    "image": "/images2/fortnite.jpg"
+  },
+  {
+    "question": "Wie is de hoofdpersoon in de 'Uncharted'-serie?",
+    "choice1": "Nathan Drake",
+    "choice2": "Kratos",
+    "choice3": "Joel",
+    "choice4": "Geralt of Rivia",
+    "answer": 1,
+    "image": "/images2/uncharted.jpg"
+  },
+  {
+    "question": "In welke game speelt de hoofdpersoon een spion genaamd 'Sam Fisher'?",
+    "choice1": "Metal Gear Solid",
+    "choice2": "Splinter Cell",
+    "choice3": "Hitman",
+    "choice4": "Assassin's Creed",
+    "answer": 2,
+    "image": "/images2/splinter-cell.jpg"
+  },
+  {
+    "question": "Welke game wordt vaak geassocieerd met de iconische zin: 'Would you kindly?'",
+    "choice1": "Bioshock",
+    "choice2": "Half-Life 2",
+    "choice3": "The Last of Us",
+    "choice4": "Red Dead Redemption",
+    "answer": 1,
+    "image": "/images2/bioshock.jpeg"
+  },
+  {
+    "question": "Wat is de naam van de open-world game die plaatsvindt in de stad Los Santos?",
+    "choice1": "Saints Row",
+    "choice2": "Watch Dogs",
+    "choice3": "Grand Theft Auto V",
+    "choice4": "L.A. Noire",
+    "answer": 3,
+    "image": "/images2/gta-v.jpg"
+  },
+  {
+    "question": "In welk spel moet de speler de stad Raccoon City ontsnappen?",
+    "choice1": "Resident Evil 2",
+    "choice2": "Silent Hill 2",
+    "choice3": "Dead Space",
+    "choice4": "The Evil Within",
+    "answer": 1,
+    "image": "/images2/resident-evil.jpeg"
+  },
+  {
+    "question": "Welke game heeft het personage 'Master Chief' als hoofdpersoon?",
+    "choice1": "Halo",
+    "choice2": "Gears of War",
+    "choice3": "Call of Duty",
+    "choice4": "Destiny",
+    "answer": 1,
+    "image": "/images2/master-chief.jpg"
+  },
+  {
+    "question": "In welke game vecht de hoofdpersoon tegen de goden van Olympus?",
+    "choice1": "Assassin's Creed",
+    "choice2": "God of War",
+    "choice3": "Darksiders",
+    "choice4": "Dark Souls",
+    "answer": 2,
+    "image": "/images2/god-of-war.jpg"
+  }
+]
