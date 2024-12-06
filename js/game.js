@@ -140,20 +140,31 @@ choiceTexts.forEach((choice) => {
     const selectedAnswer = selectedChoice.getAttribute('data-number');
     const correct = selectedAnswer == currentQuestion.answer;
 
+    // Calculate points based on remaining time
+    let points = 0;
+    if (timeLeft > 10) {
+      points = 10; // 11-15 seconds left
+    } else if (timeLeft > 5) {
+      points = 6; // 6-10 seconds left
+    } else {
+      points = 3; // 0-5 seconds left
+    }
+
+    if (correct) {
+      score += points; // Add points only if the answer is correct
+      scoreText.innerText = score;
+    }
+
     // Sla het resultaat van de vraag op
     questionsAttempted.push({
       question: currentQuestion.question,
       selectedAnswer: selectedChoice.innerText,
       correctAnswer: currentQuestion['choice' + currentQuestion.answer],
-      correct: correct
+      correct: correct,
+      pointsEarned: correct ? points : 0 // Log points earned for this question
     });
 
     localStorage.setItem('questionsAttempted', JSON.stringify(questionsAttempted));
-
-    if (correct) {
-      score += 10;
-      scoreText.innerText = score;
-    }
 
     selectedChoice.classList.add(correct ? 'correct' : 'incorrect');
 
