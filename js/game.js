@@ -140,18 +140,17 @@ choiceTexts.forEach((choice) => {
     const selectedAnswer = selectedChoice.getAttribute('data-number');
     const correct = selectedAnswer == currentQuestion.answer;
 
-    // Calculate points based on remaining time
     let points = 0;
     if (timeLeft > 10) {
-      points = 10; // 11-15 seconds left
+      points = 10; // 11-15 seconds 
     } else if (timeLeft > 5) {
-      points = 6; // 6-10 seconds left
+      points = 6; // 6-10 seconds 
     } else {
-      points = 3; // 0-5 seconds left
+      points = 3; // 0-5 seconds 
     }
 
     if (correct) {
-      score += points; // Add points only if the answer is correct
+      score += points; 
       scoreText.innerText = score;
     }
 
