@@ -160,7 +160,7 @@ choiceTexts.forEach((choice) => {
       selectedAnswer: selectedChoice.innerText,
       correctAnswer: currentQuestion['choice' + currentQuestion.answer],
       correct: correct,
-      pointsEarned: correct ? points : 0 // Log points earned for this question
+      pointsEarned: correct ? points : 0 
     });
 
     localStorage.setItem('questionsAttempted', JSON.stringify(questionsAttempted));
